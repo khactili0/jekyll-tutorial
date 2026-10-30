@@ -2,10 +2,9 @@ collections:
   authors:
     output: true
 
-
 defaults:
   - scope:
       path: ""
-     type: "authors"
+      type: "authors"
     values:
       layout: "author"
